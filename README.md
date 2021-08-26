@@ -6,7 +6,7 @@ Android主板串口依赖库,kotlin书写
 - lastVersion = [![](https://jitpack.io/v/easyandroidgroup/EaseSerial.svg)](https://jitpack.io/#easyandroidgroup/EaseSerial)
 
 
-# 依赖方式如下：#
+# 依赖方式如下：
 
 ## 1.添加maven地址到你的依赖仓库 ##
 
