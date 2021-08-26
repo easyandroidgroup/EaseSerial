@@ -1,0 +1,4 @@
+include ':serial'
+include ':app'
+rootProject.name = "FarmerSerialDemo"
+include ':qrcodehelper'
