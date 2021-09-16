@@ -19,9 +19,9 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
--keep class  farmerserial.ComBean{*;}
--keep class  farmerserial.MyFunc{*;}
--keep class  farmerserial.SerialPortFinder{*;}
+-keep class  serialport_idic.ComBean{*;}
+-keep class  serialport_idic.MyFunc{*;}
+-keep class  serialport_idic.SerialPortFinder{*;}
 -keep class  com.farmer.baseserial.ConnectHelper{*;}
 -keep class  com.farmer.baseserial.module.*{*;}
 -keep class  com.farmer.baseserial.observer.*{*;}

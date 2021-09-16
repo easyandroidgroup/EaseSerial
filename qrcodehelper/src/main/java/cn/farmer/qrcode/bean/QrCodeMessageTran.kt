@@ -1,6 +1,6 @@
 package cn.farmer.qrcode.bean
 
-import farmerserial.MyFunc
+import serialport_idic.MyFunc
 
 /**
  * @packageName: SerialPortDemo

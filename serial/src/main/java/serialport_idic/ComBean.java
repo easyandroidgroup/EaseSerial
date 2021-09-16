@@ -1,5 +1,5 @@
 
-package farmerserial;
+package serialport_idic;
 
 import java.text.SimpleDateFormat;
 

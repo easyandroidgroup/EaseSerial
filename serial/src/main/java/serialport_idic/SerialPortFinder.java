@@ -14,7 +14,7 @@
  * limitations under the License. 
  */
 
-package farmerserial;
+package serialport_idic;
 
 import android.util.Log;
 

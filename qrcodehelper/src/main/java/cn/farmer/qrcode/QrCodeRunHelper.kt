@@ -5,7 +5,7 @@ import cn.farmer.qrcode.bean.QrCodeMessageTran
 import cn.farmer.qrcode.bean.QrCodeResult
 import cn.farmer.qrcode.observer.QrCodeResultObserver
 import com.farmer.baseserial.ConnectHelper
-import farmerserial.MyFunc
+import serialport_idic.MyFunc
 
 /**
  * @packageName: SerialPortDemo

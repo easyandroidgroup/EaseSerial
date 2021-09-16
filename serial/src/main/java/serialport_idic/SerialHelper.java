@@ -1,4 +1,4 @@
-package farmerserial;
+package serialport_idic;
 
 import java.io.File;
 import java.io.IOException;

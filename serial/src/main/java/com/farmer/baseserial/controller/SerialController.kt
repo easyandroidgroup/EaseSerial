@@ -3,8 +3,8 @@ package com.farmer.baseserial.controller
 import android.os.Handler
 import com.farmer.baseserial.module.DataPackageParser
 import com.farmer.baseserial.module.DataPackageProcess
-import farmerserial.ComBean
-import farmerserial.SerialHelper
+import serialport_idic.ComBean
+import serialport_idic.SerialHelper
 
 /**
  * 文 件 名: SerialController

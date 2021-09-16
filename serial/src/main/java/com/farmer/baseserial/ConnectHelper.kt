@@ -4,7 +4,7 @@ import android.util.Log
 import com.farmer.baseserial.controller.SerialController
 import com.farmer.baseserial.module.DataPackageParser
 import com.farmer.baseserial.observer.RxObserver
-import farmerserial.MyFunc
+import serialport_idic.MyFunc
 
 /**
  * 文 件 名: ConnectHelper

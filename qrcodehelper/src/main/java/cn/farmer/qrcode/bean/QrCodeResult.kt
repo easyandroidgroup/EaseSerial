@@ -1,6 +1,5 @@
 package cn.farmer.qrcode.bean
 
-import farmerserial.MyFunc
 import kotlin.properties.Delegates
 
 /**
